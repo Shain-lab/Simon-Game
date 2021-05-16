@@ -42,7 +42,11 @@ body {
 .blue {
   background-color: blue;
 }
-
+footer{
+  font-size: 1.5rem;
+  padding: 20px 20px;
+  color: #fff;
+}
 .yellow {
   background-color: yellow;
 }
